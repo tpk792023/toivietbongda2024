@@ -27,14 +27,14 @@ http://113.184.135.207:8889/rtp/232.84.2.176:10864
 #EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
 http://113.184.135.207:8889/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
-http://113.184.135.207:8889/rtp/232.84.2.196:10960
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@m201nd/playlist.m3u8
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 26
-http://chuchuotcodon96.zapto.org:8379/udp/225.1.1.69:30120
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@m201nd/playlist.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 27
-https://tth.vn/fsport27
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@m201nd/playlist.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 28
-https://tth.vn/fsport28
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@m201nd/playlist.m3u8
 
 #EXTINF:-1 group-title="CÁ HEO TV" tvg-logo="https://img.thesports.com/football/team/aee62af96a956756cc29fe4831286357.png",19:00 25/05 | 🔴 Trực tiếp Osasuna - Villarreal | BLV A CỎ
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1/playlist.m3u8
