@@ -30,7 +30,7 @@ http://113.184.135.207:8889/rtp/232.84.2.195:10954
 http://113.184.135.207:8889/rtp/232.84.2.196:10960
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 26
-https://tth.vn/fsport26
+http://chuchuotcodon96.zapto.org:8379/udp/225.1.1.69:30120
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 27
 https://tth.vn/fsport27
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 28
