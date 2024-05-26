@@ -103,4 +103,4 @@ http://113.184.135.207:8889/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@m401nd/playlist.m3u8
 #EXTINF:-1 tvg-name="805" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 805 HD
-https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001709872594-0-0-6cf81d0d6932e758b1bc0946b32fa50b
+https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8|Referer=https://xlz.plcdn.xyz/
