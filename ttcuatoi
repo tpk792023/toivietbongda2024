@@ -52,7 +52,7 @@ https://tth.vn/onfootball
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 https://tth.vn/onsportnews
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg?auto=format&fit=max&w=640", BTV5 - ON SPORT ACTION
-https://tth.vn/btv5hd
+https://tth.vn/BTV5HD-ONLINE
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 https://tth.vn/onsport
 
