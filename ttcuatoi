@@ -21,6 +21,10 @@ https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 10
 https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
 
+#EXTINF:-1 group-title="THVLi" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2024/05/24/ofs2j60u_01_THVLi842f2129c2de7a5dbe516fb592f6f79a.jpg", Kỳ Tài Lộ Diện 2024 - Tập 1 FULL
+https://vod3.thvli.vn/8Wu4kbZHdQDXk3zUu1IrEA/1716789936/202405/kytailodien2024_e1_24052024_std/5d795518/hls/playlist.m3u8
+
+
 #EXTINF:-1 group-title="LALIGA" tvg-logo="https://img.thesports.com/football/team/36bf5bf0c8fdf08c1270124808f060e1.png",19:00 26/05 | 🔴 Trực tiếp LALIGA Getafe và Mallorca | BLV NHÀ ĐÀI
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m202nd/playlist.m3u8
 #EXTINF:-1 group-title="HẠNG NHẤT ANH" tvg-logo="https://img.thesports.com/football/team/4623d3fa1cda20d1f289dce9dc803527.png",21:00 26/05 | 🔴 Trực tiếp LEDS và SOUTHAMTION | BLV A MÕM
