@@ -37,7 +37,8 @@ http://is.am/5x6y
 https://vod3.thvli.vn/8Wu4kbZHdQDXk3zUu1IrEA/1716789936/202405/kytailodien2024_e1_24052024_std/5d795518/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="VTVCAB" tvg-logo="https://i.upanh.org/2024/05/31/100000709835b210908e0d37af.jpeg", 🔴 BĐTV
-http://14.234.155.6:1024/rtp/232.84.3.342:11374
+http://is.am/5x67/154
+#http://14.234.155.6:1024/rtp/232.84.3.342:11374
 #http://14.234.155.6:1024/rtp/232.84.1.210:9234
 #EXTINF:-1 group-title="CHUNG KẾT C1" tvg-logo="https://i.upanh.org/2024/05/31/100000709835b210908e0d37af.jpeg",02:00 02/06 | 🔴 Trực tiếp REALMARID VÀ DORMUN  | BLV NHÀ ĐÀI
 http://1.52.118.176:8889/udp/225.1.4.202:30120
