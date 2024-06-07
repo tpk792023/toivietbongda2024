@@ -168,7 +168,7 @@ http://113.184.135.207:8889/rtp/232.84.2.176:10864
 #EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
 http://113.184.135.207:8889/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@m401nd/playlist.m3u8
+http://xkiwi.sytes.net:5050/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="805" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 805 HD
 https://u8qshvrzitliv.moveon.one/b52aaca397ccb7ca8d95daeefe9bf279/1716736258193/channel-2/channel-2.m3u8|Referer=https://xlz.plcdn.xyz/
 #EXTINF:-1 tvg-name="806" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 806 HD
