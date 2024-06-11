@@ -56,8 +56,8 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@cachuoihd1/playlist.m3u8?h
 #http://is.am/5x67/154
 #http://14.234.155.6:1024/rtp/232.84.3.342:11374
 #http://14.234.155.6:1024/rtp/232.84.1.210:9234
-#EXTINF:-1 group-title="VÒNG LOẠI WC 2026" tvg-logo="https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png!w60",19:00 11/06 | 🔴 ÚC VÀ PALESTIN| BLV A MÕM
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8?h=1080
+#EXTINF:-1 group-title="VÒNG LOẠI WC 2026" tvg-logo="https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png!w60",19:00 11/06 | 🔴 ÚC VÀ PALESTIN| BLV THỢ LẶN
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lanhd1/playlist.m3u8?h=1080
 #http://1.52.118.176:8889/udp/225.1.4.202:30120
 #EXTINF:-1 group-title="VÒNG LOẠI WC 2026" tvg-logo="https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w100",19:00 11/06 | 🔴 THÁI LAN VÀ SINGAPO | BLV A BỊP
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@biphd1/playlist.m3u8?h=1080
