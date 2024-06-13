@@ -171,16 +171,10 @@ https://play.stream-keycdn.com/live/thomohot.m3u8
 https://play.stream-keycdn.com/live/cuadao.m3u8
 
 #EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801
-http://113.184.135.207:8889/rtp/232.84.2.175:10858
+https://tth.vn/801FHD
 #EXTINF:-1 tvg-name="802" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD
-http://113.184.135.207:8889/rtp/232.84.2.176:10864
+https://tth.vn/802FHD
 #EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
-http://113.175.179.141:4022/rtp/232.84.2.195:10954
+https://tth.vn/803FHD
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
-http://xkiwi.sytes.net:5050/rtp/232.84.2.195:10954
-#EXTINF:-1 tvg-name="805" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 805 HD
-https://u8qshvrzitliv.moveon.one/b52aaca397ccb7ca8d95daeefe9bf279/1716736258193/channel-2/channel-2.m3u8|Referer=https://xlz.plcdn.xyz/
-#EXTINF:-1 tvg-name="806" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 806 HD
-https://tth.vn/U17-Ý-U17-Thụy-Điển
-#EXTINF:-1 tvg-name="807" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 807 HD
-https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001716867048-0-0-d34521d9f27a4df92ecb28117819a503
+https://tth.vn/804FHD
