@@ -26,7 +26,8 @@ https://tth.vn/thể-thao-hàng-ngày
 
 
 #EXTINF:-1 group-title="GIAO HỮU ĐTQG HÔM NAY" tvg-logo="https://i.upanh.org/2024/06/02/10000071365ebe72dd30f9c21a.jpeg", 360TV1
-https://linkxink.net/360plus1
+https://api.wintv.me/360/2554/index.m3u8
+#https://linkxink.net/360plus1
 #EXTINF:-1 group-title="GIAO HỮU ĐTQG HÔM NAY" tvg-logo="https://i.upanh.org/2024/06/02/1000007129ff6cd714f8994715.jpeg", 360TV2
 https://linkxink.net/360plus2
 #EXTINF:-1 group-title="GIAO HỮU ĐTQG HÔM NAY" tvg-logo="https://i.upanh.org/2024/06/02/10000071317bfb9d33f3a7189b.jpeg", 360TV3
