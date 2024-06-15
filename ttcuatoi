@@ -24,6 +24,20 @@ https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
 #EXTINF:-1 group-title="TTHTMN" tvg-logo="https://i.upanh.org/2024/06/08/1000007253edb1fd664d337159.jpeg",TT1
 https://tth.vn/thể-thao-hàng-ngày
 
+EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/THVL1
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/THVL2
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 (Dự Phòng 2)
+https://api.wintv.me/360/25/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 (Dự Phòng 2)
+https://api.wintv.me/360/26/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 (Dự Phòng 2)
+https://api.wintv.me/360/219/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 (Dự Phòng 2)
+https://api.wintv.me/360/220/index.m3u8
 
 #EXTINF:-1 group-title="GIAO HỮU ĐTQG HÔM NAY" tvg-logo="https://i.upanh.org/2024/06/02/10000071365ebe72dd30f9c21a.jpeg", 360TV1
 https://api.wintv.me/360/2554/index.m3u8
